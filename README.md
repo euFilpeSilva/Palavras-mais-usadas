@@ -1,6 +1,8 @@
 # Palavras-mais-usadas
 Exercitando modularidade e paradgma funcional com Javascript
 
+- Curso Javascript funcional e reativo - @Cod3r
+
 ## As funções do projeto:
 - Comentarios explicativos adicionados junto as chamadas das funções, arquivo index.js.
 ### Filtrar arquivos com extensão ".srt"
