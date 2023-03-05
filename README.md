@@ -1,5 +1,5 @@
 # Palavras-mais-usadas
-Exercitando modularidade e paradgma funcional com Javascrip
+Exercitando modularidade e paradgma funcional com JavascripT
 
 ## As funções do projeto:
 - Comentarios explicativos adicionados junto as chamadas das funções, arquivo index.js.
