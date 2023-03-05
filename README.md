@@ -2,6 +2,7 @@
 Exercitando modularidade e paradgma funcional com Javascrip
 
 ## As funções do projeto:
+- Comentarios explicativos adicionados junto as chamadas das funções, arquivo index.js.
 ### Filtrar arquivos com extensão ".srt"
 ex:
 ![image](https://user-images.githubusercontent.com/79103757/222974395-51c2682d-a586-478a-8a14-d827fc5868dc.png)
